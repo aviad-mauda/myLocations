@@ -1,0 +1,11 @@
+.category {
+    padding: 1vh;
+    border: 1px solid;
+    margin: 1vh;
+    cursor: pointer;
+}
+
+.clicked {
+    background-color: gray;
+    font-weight: bold;   
+}

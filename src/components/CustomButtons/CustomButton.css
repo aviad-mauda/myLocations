@@ -1,0 +1,40 @@
+.button {
+    margin-left: 2vh;
+    padding:0.3em 1.2em;
+    border:0.16em solid rgba(255,255,255,0);
+    border-radius:2em;
+    color:#FFFFFF;
+    text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+}
+
+#delete-button {
+    background-color: red;
+}
+
+#delete-button:hover {
+    border-color: rgba(255,255,255,1);
+}
+
+#add-button {
+    background-color: green;
+}
+
+#add-button:hover {
+    border-color: rgba(255,255,255,1);
+}
+
+#save-button {
+    background-color: black;
+}
+
+#save-button:hover {
+    border-color: rgba(255,255,255,1);
+}
+
+#update-button {
+    background-color: olive;
+}
+
+#update-button:hover {
+    border-color: rgba(255,255,255,1);
+}

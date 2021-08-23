@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  height: 100%;
+  display: flex;
+  flex-flow: column;
+}
+
+.app-body {
+  height: 75vh;
+  width: 100%;
+  display: block;
+}
